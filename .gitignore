@@ -49,5 +49,4 @@ Temporary Items
 # ignore other kinds of data
 **.class
 !README.txt
-!AdventureMaze.jar
 !makefile
